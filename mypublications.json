@@ -1,0 +1,14 @@
+[
+    {
+        "title":"[SortedEffects: Sorted Causal Effects in R](https://arxiv.org/pdf/1909.00836.pdf)",
+        "coauthors": "with Victor Chernozhukov, Ivan Fernandez-Val and Ye Luo",
+        "info": "*The R Journal*, 12(1): 131–146, 2020. [[Package]](https://cran.r-project.org/web/packages/SortedEffects/index.html)",
+        "abstract":"**Abstract:** A package to implement sorted effects"
+    },
+    {
+        "title":"[Mastering Panel Metrics: Causal Impact of Democracy on Growth](https://arxiv.org/pdf/1901.03821.pdf)",
+        "coauthors": "with Victor Chernozhukov and Ivan Fernandez-Val",
+        "info": "*American Economic Association Papers and Proceedings*, 109: 77 - 82, 2019",
+        "abstract":"**Abstract:** Split sample bias correction for many instruments and many fixed effects problems"
+    }
+]

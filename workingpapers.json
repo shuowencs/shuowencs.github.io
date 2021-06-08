@@ -1,0 +1,13 @@
+[
+    {
+        "title":"Robust Score Test for Incomplete Models with Nuisance Parameters",
+        "coauthors":"with Hiroaki Kaido",
+        "abstract":"**Abstract:**"
+    },
+    {
+        "title":"R&D Heterogeneity and Countercyclical Productivity Dispersion",
+        "coauthors": "with Yang Ming",
+        "slides":"[Slides]",
+        "abstract":"**Abstract:** What causes the countercyclicality of productivity dispersions? Empirically, we construct a negative profit shock and show that (1) within-industry R&D intensity (RDI) and productivity become more disperse in response to the negative profit shock, (2) in response to the shocks, high RDI firms increase RDI while low RDI firms reduce RDI. Theoretically, we build a quality-ladder model such that heterogeneous R&D costs determine the gap of technology levels between two firms in the stationary equilibrium. Quantitatively, we estimate the paramterized model by GMM and demonstrate that the estimated model predicts productivity dispersion in response to a profit shock. Counterfactually, we consider a policy in which government changes technology spillover rate via patent protections and argue that a mild increase encourages R&D competitions and thus R&D efforts, while a big increase dampens incentives for innovations."
+    }
+]
