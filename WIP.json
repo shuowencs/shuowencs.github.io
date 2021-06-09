@@ -1,15 +1,15 @@
 [
     {
         "title":"Indirect Inference for Nonlinear Panel",
-        "abstract":"TBA"
+        "abstract":"**Abstract:** TBA"
     },
     {
         "title":"Crossover Jackknife Bias Correction for Nonstationary Panel",
         "coauthors":"with Victor Chernozhukov, Ivan Fernandez-Val, Hiroyuki Kasahara and Paul Schrimpf",
-        "abstract":"Nonstationary variables are common in panel data models with fixed effects. Variables like age and incomely are trended. Binary variables like job program participation can change value in the middle of the panel. Existent bias correction method typically impose stationarity assumptions. Although simulations and applications show their presence don't affect the properties of these methods, there is no formal justification. We propose a new jackknife bias correction method regarding such stationarity."
+        "abstract":"**Abstract:** Nonstationary variables are common in panel data models with fixed effects. Variables like age and incomely are trended. Binary variables like job program participation can change value in the middle of the panel. Existent bias correction method typically impose stationarity assumptions. Although simulations and applications show their presence don't affect the properties of these methods, there is no formal justification. We propose a new jackknife bias correction method regarding such stationarity."
     },
     {
         "title":"Dynamic Discrete Choice Models with Fixed Effects",
-        "abstract":"TBA"
+        "abstract":"**Abstract:** TBA"
     }
 ]
