@@ -1,13 +1,16 @@
 [
     {
-        "title":"Robust Score Test for Incomplete Models with Nuisance Parameters",
-        "coauthors":"with Hiroaki Kaido",
-        "abstract":"**Abstract:**"
+        "title":"Indirect Fixed Effects Estimation for Nonlinear Panel Models",
+        "abstract":"**Abstract:** TBA"
     },
     {
-        "title":"R&D Heterogeneity and Countercyclical Productivity Dispersion",
+        "title":"Robust Tests of Model Incompleteness in the Presenceof Nuisance Parameters",
+        "coauthors":"with Hiroaki Kaido",
+        "abstract":"**Abstract:** A model becomes incomplete if researchers are willing to be agnostic about parts of the model. We consider subvector inference of a class of incomplete models. Namely, we require that the model is complete when the parameter components of interest are set to their null value. As an example, we test the presence of strategic interactions in 2--player complete information entry game with unknown equilibrium selection mechanisms and nuisance parameters. Using the ideas of least favorable pairs and Neyman orthogonality, we propose a robust test based on the sup of orthogonalized score functions and explore its size and power properties. Monte Carlo simulations confirm the performance of the method. We apply the method to data by Kline and Tamer (2016). "
+    },
+    {
+        "title":"[R&D Heterogeneity and Countercyclical Productivity Dispersion](https://arxiv.org/pdf/2108.02272.pdf)",
         "coauthors": "with Yang Ming",
-        "slides":"[Slides]",
-        "abstract":"**Abstract:** What causes the countercyclicality of productivity dispersions? Empirically, we construct a negative profit shock and show that (1) within-industry R&D intensity (RDI) and productivity become more disperse in response to the negative profit shock, (2) in response to the shocks, high RDI firms increase RDI while low RDI firms reduce RDI. Theoretically, we build a quality-ladder model such that heterogeneous R&D costs determine the gap of technology levels between two firms in the stationary equilibrium. Quantitatively, we estimate the paramterized model by GMM and demonstrate that the estimated model predicts productivity dispersion in response to a profit shock. Counterfactually, we consider a policy in which government changes technology spillover rate via patent protections and argue that a mild increase encourages R&D competitions and thus R&D efforts, while a big increase dampens incentives for innovations."
+        "abstract":"**Abstract:** What causes countercyclicality of industry-level productivity dispersion in the U.S.? Empirically, we construct an index of negative profit shocks and show that both productivity dispersion and R&D intensity dispersion enlarge at the onset of the shock and gradually dissipate. Theoretically, we build a duopolistic technology-ladder model in which heterogeneous R&D costs determine firms' post-shock optimal behaviors and equilibrium technology gap. Quantitatively, we calibrate a parameterized model, simulate firms' post-shock responses and predict that productivity dispersion is due to the low-cost firm increasing R&D efforts and the high-cost firm doing the opposite. We provide two empirical tests for this mechanism."
     }
 ]
